@@ -3,3 +3,6 @@
 3/ commit
 4/ them 1 dong
 5/ commit
+6/ pull
+7/ chinh sua
+8/ commit
